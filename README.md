@@ -1,4 +1,5 @@
-![Bridge](/Users/aitormentxaka/Desktop/Data science/proyectos/Modelo machine learning regresión/src/img/The Bridge.png)
+`![Bridge](src/img/The Bridge.png)
+`
 
 # Proyecto 3: Proyecto Machine Learning
 
